@@ -1,1 +1,1 @@
-sample file created for traing repo.
+sample file created for sohan training repo.
